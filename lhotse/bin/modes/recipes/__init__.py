@@ -4,6 +4,7 @@ from .aishell import *
 from .aishell2 import *
 from .aishell3 import *
 from .aishell4 import *
+from .asru2019 import *
 from .ali_meeting import *
 from .ami import *
 from .aspire import *
